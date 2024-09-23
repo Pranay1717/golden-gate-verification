@@ -1,0 +1,80 @@
+LOCUS       Psaro0803                301 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  Designed by promoterLab_V1. Transcription rate: 21297.4. Overlap
+            score: 9.
+ACCESSION   Psaro0803
+VERSION     Psaro0803
+COMMENT     Imported using the Genbank importer. File name:
+            Psaro0803_promoter-part.gb
+FEATURES             Location/Qualifiers
+     misc_feature    1..25
+                     /label="Part-Primer_F"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    26..98
+                     /label="spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    99..104
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    106..109
+                     /label="Cut"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    110..133
+                     /label="UP element"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    110..192
+                     /label="Psaro0803 Promoter"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    116..141
+                     /label="Operator"
+                     /ApEinfo_revcolor="#636363"
+                     /ApEinfo_fwdcolor="#636363"
+     misc_feature    135..140
+                     /label=-35
+                     /ApEinfo_revcolor="#ff1e00"
+                     /ApEinfo_fwdcolor="#ff1e00"
+     misc_feature    141..156
+                     /label="spacer"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    157..162
+                     /label=-10
+                     /ApEinfo_revcolor="#ff1e00"
+                     /ApEinfo_fwdcolor="#ff1e00"
+     misc_feature    163..172
+                     /label="disc"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    173..192
+                     /label="ITR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    complement(193..196)
+                     /label="Cut"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(198..203)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    complement(204..276)
+                     /label="spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    complement(277..301)
+                     /label="Part-Primer_R"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+ORIGIN
+        1 gcactgctca ctgcatcgat acatgaggac tacgtggcga gattagatgc agctacaaga
+       61 cacgctggcg tgaacaagag gtgagctcaa ttcacattgg tctcagccaa aaatagttag
+      121 caatacatac aatattgcaa ggtatctctt gctttctata atgctatcga tcgatcgtct
+      181 aattgagctg tcattgtgag acctacatgg cgtggtctag gatctgacac tcgcacgata
+      241 gactggactg cgatcctgtg ctgagacatc aatgatggat gagtcagcat cgagcacaga
+      301 c
+//

@@ -1,0 +1,82 @@
+LOCUS       4._P10_R13K              345 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..13
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(14..103)
+                     /label="DT60 double terminator"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    104..131
+                     /label="UAS"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    104..173
+                     /label="P10"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    132..137
+                     /label=-35
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    138..154
+                     /label="spacer"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    155..160
+                     /label=-10
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    161..173
+                     /label="ITR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     ribozyme        174..248
+                     /label="RiboJ"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    249..280
+                     /label="5'-UTR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    267..275
+                     /label="SD1"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    281..331
+                     /label="Leader peptide"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     CDS             281..331
+                     /label="Translation 281-331"
+                     /translation="MKAIFVLKHLNHAYRG*"
+     misc_feature    319..327
+                     /label="13k"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    332..333
+                     /label="2 bp spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    333..336
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(338..343)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT GGCCATAAAA AAATGGCGCC GATGGGCGCC ATTTTTCACT GTGTCATACG
+       61 TAAAAAAGGG CGATCTTGCG ACCGCCCTTT TTTTATTAAA TGTAACGggc tgtcgaccgg
+      121 cgaaaagttc gATTACAgct agctcagtcc taggTACAAT GCTAGCGGAT GGCagctgtc
+      181 accggatgtg ctttccggtc tgatgagtcc gtgaggacga aacagcctct aCAAATAATT
+      241 TTGTTTAAGG GCCCAAGTTC ACTTAAAAAG GAGATCAACA ATGAAAGCAA TTTTCGTACT
+      301 GAAACATCTT AATCATGCTT ATCGGGGTTA AATATGtgag acctg
+//

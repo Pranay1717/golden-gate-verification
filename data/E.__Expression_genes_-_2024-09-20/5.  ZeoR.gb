@@ -1,0 +1,35 @@
+LOCUS       5._ZeoR                  400 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..13
+                     /label="Lig"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    11..385
+                     /label="EZeo"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     CDS             11..385
+                     /label="Translation 11-385"
+                     /translation="MSKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDDVTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGREFALRDPAGNCVHFVAEEQD*"
+     misc_feature    388..391
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    complement(393..398)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGTCTAAAT TGACATCTGC TGTTCCAGTT TTGACCGCTA GAGATGTTGC
+       61 TGGTGCTGTT GAATTTTGGA CTGATAGATT GGGTTTCTCC AGAGATTTCG TTGAAGATGA
+      121 TTTCGCTGGT GTTGTTAGAG ATGATGTTAC CTTGTTCATT TCCGCCGTTC AAGATCAAGT
+      181 TGTTCCAGAT AATACTTTGG CTTGGGTTTG GGTTAGAGGT TTGGATGAAT TATATGCCGA
+      241 ATGGTCCGAA GTTGTTTCTA CCAATTTTAG AGATGCTTCT GGTCCAGCTA TGACCGAAAT
+      301 TGGTGAACAA CCTTGGGGTA GAGAATTTGC TTTGAGAGAT CCAGCTGGTA ATTGCGTTCA
+      361 TTTTGTTGCT GAAGAACAAG ATTAAtaATC Ctgagacctg
+//

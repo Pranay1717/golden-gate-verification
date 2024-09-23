@@ -1,0 +1,55 @@
+LOCUS       3._RamR_Promoter_UAS1    302 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    105..110
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    112..115
+                     /label="GCCA"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    116..201
+                     /label="RamR promoter"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    117..148
+                     /label="UAS1"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    149..154
+                     /label=-35
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    171..176
+                     /label=-10
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    175..181
+                     /label="RamR bind"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    186..186
+                     /label="TSS"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    complement(188..194)
+                     /label="RamR bind"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     misc_feature    202..205
+                     /label="ATTG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(207..212)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 aggactacgt ggcgagatta gatgcagcta caagacacgc tggcgtgaac aagaggtgag
+       61 ctcaattcac attggttgat acgcgcaatc ttggattgcg cgaaggtctc aGCCAtATTG
+      121 TATGGGCTGT CGACCTTTGA AAAGTACCTT GACGGCGTAT CTTTGCTTTC TATAATGAGT
+      181 GCTTACTCAC TCATAATCAA GATTGtgaga cctacatggc gtggtctagg atctgacact
+      241 cgcacgatag actggactgc gatcctgtgc tgagacaTCa atgatcactc caaggttatc
+      301 tt
+//

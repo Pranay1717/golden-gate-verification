@@ -1,0 +1,36 @@
+LOCUS       EPR37357                 634 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..619
+                     /label="EPR37357"
+                     /ApEinfo_revcolor="#9eafd2"
+                     /ApEinfo_fwdcolor="#9eafd2"
+     misc_feature    622..625
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(627..632)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGAACACTC ACACGAAAGA AACCCGCCCG GGCCAAAAAC CACTGAGCGA
+       61 AGAAAAGCGT TCGCGCATCC TGGACTCCGC GGCCAAACTG TTTGCCTCAC GTCCTTTTCA
+      121 TAAAGTTTTG CTCAGTGATG TTGCAGCGGC AGCGGCTGTC GGCAAGGGCA CCTTATACCT
+      181 TTACTTCGAA AGCAAAGACG AGCTGTATCT GTCTGTGTTG TTTCGTAGTT TCGCTAATCT
+      241 CGTGGCCCGT GTTCGTGAGA AACTGGCAGA AGATGAAGGT GAGCCAGAAC AGCGTCTGTC
+      301 TTGCGTCATT CGCGAATTAG TCTATCGCCT TCACGGTAAC GCGGTCATTA AAGAGCTGTT
+      361 GCGCGGGGCA GTAGTGGGTT ATCCCAATAA CGGCGAGTGG GAAGAAAAAC GGGGGGAACT
+      421 GCACAAACTG ATTGAGGCGA TTCTGCGTCG TGGTGTGGAA AAAGGCGTGT TTCAGGATGC
+      481 CCATCCGGAG TTTACAGCTC GGTACATCCC GGGAATGATC CGCGCGGCCA TTTTATTCAA
+      541 GCCGGAAGCC ACCAACGTAG ATGTTGTGTT CGAACATGCG CGCAATTTTA TCCTGTCGTC
+      601 CCTTCGTAAA CGCAGCTAAt aATCCtgaga cctg
+//

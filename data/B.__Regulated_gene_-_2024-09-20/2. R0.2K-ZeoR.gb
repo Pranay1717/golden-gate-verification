@@ -1,0 +1,65 @@
+LOCUS       2._R0.2K-ZeoR            562 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..13
+                     /label="AACG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(14..388)
+                     /label="EZeo"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     CDS             complement(14..388)
+                     /label="ZeoR"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+                     /translation="MSKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDDVTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGREFALRDPAGNCVHFVAEEQD*"
+     misc_feature    complement(389..549)
+                     /label="BCD R0.2K"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             complement(391..441)
+                     /label="leader peptide DJR R0.2K"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MKAIFVLKHLNHAHVP*"
+     misc_feature    complement(395..403)
+                     /label="SD2"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    complement(451..458)
+                     /label="SD1"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    complement(459..468)
+                     /label="5'UTR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    complement(469..549)
+                     /label="PlmJ"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    550..553
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(555..560)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaA ACGTTAATCT TGTTCTTCAG CAACAAAATG AACGCAATTA CCAGCTGGAT
+       61 CTCTCAAAGC AAATTCTCTA CCCCAAGGTT GTTCACCAAT TTCGGTCATA GCTGGACCAG
+      121 AAGCATCTCT AAAATTGGTA GAAACAACTT CGGACCATTC GGCATATAAT TCATCCAAAC
+      181 CTCTAACCCA AACCCAAGCC AAAGTATTAT CTGGAACAAC TTGATCTTGA ACGGCGGAAA
+      241 TGAACAAGGT AACATCATCT CTAACAACAC CAGCGAAATC ATCTTCAACG AAATCTCTGG
+      301 AGAAACCCAA TCTATCAGTC CAAAATTCAA CAGCACCAGC AACATCTCTA GCGGTCAAAA
+      361 CTGGAACAGC AGATGTCAAT TTAGACATat ttaaGGGACG TGAgcgtgat ttaggtgttt
+      421 aagaacaaat atagctttca tgcgcggtta tcctccttta taagctacTT AAACAAAATT
+      481 ATTTGTAGAG GTCATAAGTT TCGTCGCATT TCAGCGACTC ATCAGTGGGC TTAGCCCAGA
+      541 CTTATGACTC AATtgagacc tg
+//

@@ -1,0 +1,51 @@
+LOCUS       3._TtgR_Promoter         301 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    114..119
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    121..124
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     promoter        125..190
+                     /label="TtgR promoter"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    149..160
+                     /label="palindrome 1"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    149..177
+                     /label="TtgR binding site"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    151..156
+                     /label=-35
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    165..176
+                     /label="palindrome 2"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    175..180
+                     /label=-10
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    191..194
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(196..201)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 tgacctacaa ggactacgtg gcgagattag atgcagctac aagacacgct ggcgtgaaca
+       61 agaggtgagc tcaattcaca ttggttgata cgcgcaatct tggattgcgc gaaggtctca
+      121 GCCAaaaata tatttttcCA CCCAGCAGTA TTTACAAACA ACCATGAATG TAAGTATAAT
+      181 agTTAGCAAC ATTGtgagac ctacatggcg tggtctagga tctgacactc gcacgataga
+      241 ctggactgcg atcctgtgct gagacaTCaa tgatcactcc aaggttatct tagtcggcat
+      301 c
+//

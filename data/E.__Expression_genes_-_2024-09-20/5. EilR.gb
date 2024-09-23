@@ -1,0 +1,41 @@
+LOCUS       5._EilR                  604 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..589
+                     /label="EilR"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             11..589
+                     /label="EilR"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /translation="MGYLNREERRETIMQAAMRVALDQGFTGMTVRNIATAAGVAAGQVHHHFTSSGELKSQAFIRVIREMMDLQRLSRTAGWREQLFSALGSEDGRLEPYIRLWRQAQLLADSDPEIKSAYLLTMNLWHDEAVRIIRAGHAAGEFTLRDSAENIAWRLISLVCGLDGIYVLGMPEVDDAAFTRHLQHVIQLELFS*"
+     misc_feature    592..595
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(597..602)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGGGTTATC TGAATCGTGA GGAACGCCGT GAGACAATCA TGCAAGCCGC
+       61 AATGCGTGTT GCCTTGGATC AAGGTTTTAC CGGAATGACT GTTCGTAACA TTGCGACCGC
+      121 TGCCGGAGTT GCAGCAGGTC AAGTACATCA TCATTTCACT TCCAGTGGCG AATTAAAGTC
+      181 CCAAGCCTTC ATCCGTGTCA TCCGCGAAAT GATGGATTTA CAACGCCTGT CGCGTACTGC
+      241 GGGATGGCGT GAGCAACTGT TTTCAGCTTT AGGTTCTGAA GATGGTCGCC TTGAGCCATA
+      301 CATCCGCTTG TGGCGTCAGG CGCAACTTTT GGCTGATAGT GACCCTGAAA TTAAGTCCGC
+      361 ATATTTATTA ACTATGAATC TTTGGCACGA CGAAGCAGTG CGTATTATTC GTGCAGGTCA
+      421 CGCTGCTGGA GAATTtACTT TACGCGACAG TGCAGAAAAT ATTGCATGGC GCCTGATTAG
+      481 TTTAGTTTGC GGTTTAGATG GCATCTATGT GTTGGGAATG CCTGAGGTTG ACGATGCGGC
+      541 ATTCACTCGC CATCTGCAGC ATGTGATTCA ACTGGAGTTA TTCTCGTAAt aATCCtgaga
+      601 cctg
+//

@@ -1,0 +1,37 @@
+LOCUS       ANI80042                 673 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..658
+                     /label="ANI80042.1"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    661..664
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(666..671)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGACGGATA ATCCCCCAGC ACGCCGGCCT GGTCGTCCTC GTCGTGAAGA
+       61 GAGTGCAGAA ATTGAACATC GTTTGGTGGA AACCACCATG CGCATGCTGG TTGAGCACGG
+      121 CCCGTCATTG ACCATGAACA CCATCATTAC GGCGTCAGGC CTCAGTCGGA AAACGGTCTA
+      181 CGCGCATTAC CCAAATAAAC CGGCCCTTTT TGCGGCGGTT GTTCGCCAGA TGCTTGGCTA
+      241 TGCTTTACAA CCTCTGGCGG TACCACCGCG CGCGCGTTGG CAGGAATCCC TCTTATCTTT
+      301 TGTGGAACAG TGTTTGGCAG AAGTGTGCGA ACCGTATGCG ACCGCCATGC GCCGCCTGCT
+      361 GATGTTAAAC TCGAGCTTTT TTGAAGAGGC TCGTCCGCAG ATCGAGCAGG TAGTCGTGCG
+      421 TCGTTACCTC GATCCGCTGG CTGCATATCT GCAGAGCCTG GTTGACCAAG GTATTCTGCC
+      481 GGATCAGGAC GTCGGGTTCG CCGCTGAGAG CCTGACAAGC CTGATCTTGT CGGAATCTCA
+      541 TCGGCGCTTC TTTCAAGGCG AAGCGGATGA TTCCGTGGAT GCTGTACAAC TGAACCGTCA
+      601 CGCCCGCCGC CTGACTGCTC TGTTCTGCGG TGGAATTACA TCTCCGGCAG ACCTTTAAta
+      661 ATCCtgagac ctg
+//

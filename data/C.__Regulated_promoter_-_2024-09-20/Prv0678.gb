@@ -1,0 +1,77 @@
+LOCUS       Prv0678                  300 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  Designed by promoterLab_V1. Transcription rate: 14,426
+ACCESSION   Prv0678
+COMMENT     Imported using the Genbank importer. File name:
+            Ppccd_promoter-part.gb
+FEATURES             Location/Qualifiers
+     misc_feature    1..25
+                     /label="Part-Primer_F"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    26..98
+                     /label="spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    99..104
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    106..109
+                     /label="Cut"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    110..133
+                     /label="UP element"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    110..191
+                     /label="Rv0678 Promoter"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    134..139
+                     /label=-35
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    139..155
+                     /label="IR1"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    156..161
+                     /label=-10
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    162..171
+                     /label="disc"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    complement(164..183)
+                     /label="IR2"
+                     /ApEinfo_revcolor="#d59687"
+                     /ApEinfo_fwdcolor="#d59687"
+     misc_feature    172..191
+                     /label="ITR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    complement(192..195)
+                     /label="Cut"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(197..202)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    complement(203..275)
+                     /label="spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    complement(276..300)
+                     /label="Part-Primer_R"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+ORIGIN
+        1 gcactgctca ctgcatcgat acatgaggac tacgtggcga gattagatgc agctacaaga
+       61 cacgctggcg tgaacaagag gtgagctcaa ttcacattgg tctcagccaa aaatatattt
+      121 ttcaaaagta tcgTTGACGA ACGTCACAGA TTTCATATAA TgcTGAAACT TGTGAGCGTC
+      181 AACgagctgt cattgtgaga cctacatggc gtggtctagg atctgacact cgcacgatag
+      241 actggactgc gatcctgtgc tgagacatca atgatggatg agtcagcatc gagcacagac
+//

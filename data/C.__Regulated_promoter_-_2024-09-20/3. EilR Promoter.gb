@@ -1,0 +1,47 @@
+LOCUS       3._EilR_Promoter         301 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    108..113
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    115..118
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    119..142
+                     /label="UAS"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     misc_feature    119..190
+                     /label="EilR Promoter"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    143..148
+                     /label=-35
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    149..167
+                     /label="Oeilr"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    167..172
+                     /label=-10
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    191..194
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(196..201)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acaaggacta cgtggcgaga ttagatgcag ctacaagaca cgctggcgtg aacaagaggt
+       61 gagctcaatt cacattggtt gatacgcgca atcttggatt gcgcgaaggt ctcaGCCAgg
+      121 ctgtcgacCT TTGAAAAGTT CGTTGACATT GGACACGTGT CCAACTTATG ATtaagatgt
+      181 acccagttcg ATTGtgagac ctacatggcg tggtctagga tctgacactc gcacgataga
+      241 ctggactgcg atcctgtgct gagacaTCaa tgatcactcc aaggttatct tagtcggcat
+      301 c
+//

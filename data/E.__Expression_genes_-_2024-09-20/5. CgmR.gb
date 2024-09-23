@@ -1,0 +1,40 @@
+LOCUS       5._CgmR                  559 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..544
+                     /label="CgmR"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             11..544
+                     /label="CgmR"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+                     /translation="MRTSKKEMILRTAIDYIGEYSLETLSYDSLAEATGLSKSGLIYHFPSRHALLLGMHELLADDWDKELRDITRDPEDPLERLRAVVVTLAENVSRPELLLLIDAPSHPDFLNAWRTVNHQWIPDTDDLENDAHKRAVYLVQLAADGLFVHDYIHDDVLSKSKRQAMLETILELIPSQT*"
+     misc_feature    547..550
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(552..557)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGCGCACCA GCAAGAAGGA GATGATTCTG CGCACCGCGA TTGATTATAT
+       61 TGGCGAATAT AGCTTAGAGA CTCTGAGCTA CGACAGCCTG GCGGAAGCGA CCGGCTTATC
+      121 TAAAAGCGGC CTGATTTATC ATTTTCCGAG CCGCCATGCG CTGCTGCTGG GCATGCATGA
+      181 ATTATTAGCG GATGACTGGG ACAAGGAACT GCGCGATATT ACCCGCGATC CGGAAGATCC
+      241 GTTAGAACGC CTGCGTGCAG TGGTTGTGAC TCTGGCGGAA AACGTGTCTC GTCCAGAACT
+      301 GCTGCTGCTG ATTGATGCGC CGAGTCATCC GGATTTTCTG AACGCGTGGC GCACCGTGAA
+      361 CCATCAGTGG ATTCCGGATA CCGATGATCT GGAAAACGAT GCGCATAAAC GCGCGGTGTA
+      421 TCTGGTGCAG TTAGCGGCAG ATGGCCTGTT TGTGCATGAT TACATTCACG ATGATGTGCT
+      481 GAGCAAAAGC AAGCGCCAGG CGATGCTGGA AACCATTCTG GAACTGATTC CGAGCCAGAC
+      541 CTAAtaATCC tgagacctg
+//

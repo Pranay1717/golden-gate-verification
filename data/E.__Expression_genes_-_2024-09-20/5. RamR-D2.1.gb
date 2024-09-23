@@ -1,0 +1,58 @@
+LOCUS       5._RamR-D2.1             610 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..595
+                     /label="RamR-D2.1"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     CDS             11..595
+                     /label="RamR"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /translation="MVARPKSEDKKQALLEAATQAIAQSGIAASTAVIARNAGVAEGTLFRYFATKDELINTLYLHLKQDLCQSMIMELDRSITDAKMMTRFIWNSYISWGLNHPARHRAIRQLAVSEKLTKETEQRADDMFPELRDLIHRKRLMVFMSDEYRAFGDGLFLALAETTMDFAARDPARAGEYIALGFEAMWRALTREEQ*"
+     CDS             11..595
+                     /label="RamR"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /translation="MVARPKSEDKKQALLEAATQAIAQSGIAASTAVIARNAGVAEGTLFRYFATKDELINTLYLHLKQDLCQSMIMELDRSITDAKMMTRFIWNSYISWGLNHPARHRAIRQLAVSEKLTKETEQRADDMFPELRDLIHRKRLMVFMSDEYRAFGDGLFLALAETTMDFAARDPARAGEYIALGFEAMWRALTREEQ*"
+     misc_feature    413..415
+                     /label="C135I"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    422..424
+                     /label="S138K"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    425..427
+                     /label="V139R"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    598..601
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(603..608)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT atggttgctc gcccaaagtc tgaggacaaa aagcaggcat tgcttgaagc
+       61 ggcaactcaa gccatcgcgc aatcaggcat tgccgctagt accgctgtaa ttgcacgcaa
+      121 tgcgggagtt gcggaaggga cgttgttccg ctatttcgca acgaaagatg agttgatcaa
+      181 caccctttac ttacatttga aacaggacct gtgccaatca atgatcatgg aattggatcg
+      241 ttctattact gacgctaaga tgatgacccg ttttatctgg aacagttata ttagctgggg
+      301 attgaaccac ccagctcgcc atcgtgccat tcgtcagttg gcggtttctg aaaagttgac
+      361 gaaggaaacc gaacaacgcg cggatgatat gttcccggag ttacgcgact tgATCcaccg
+      421 tAAACGCctt atggtgttta tgtccgacga gtaccgcgcc ttcggcgacg ggttgttctt
+      481 ggcgcttgct gaaacgacta tggatttcgc tgcgcgcgac ccggctcgcg ctggtgagta
+      541 cattgcgttg ggcttcgagg ctatgtggcg cgcacttacg cgcgaagagc agtaataATC
+      601 Ctgagacctg
+//

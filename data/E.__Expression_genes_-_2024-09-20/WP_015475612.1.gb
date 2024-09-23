@@ -1,0 +1,54 @@
+LOCUS       WP_015475612.1           957 bp ds-DNA     linear       05-SEP-2024
+DEFINITION  This is a genetic assembly part designed by promoterLab.
+ACCESSION   WP_015475612
+VERSION     WP_015475612.1
+COMMENT     Imported using the Genbank importer. File name:
+            WP_015475612.1_CDS-part.gb
+FEATURES             Location/Qualifiers
+     misc_feature    1..25
+                     /label="Part-Primer_F"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     misc_feature    28..33
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    36..917
+                     /label="WP_015475612.1"
+                     /ApEinfo_revcolor="#bf70ff"
+                     /ApEinfo_fwdcolor="#bf70ff"
+     CDS             36..917
+                     /label="WP_015475612.1"
+                     /ApEinfo_revcolor="#bf70ff"
+                     /ApEinfo_fwdcolor="#bf70ff"
+                     /translation="MSRTSDWPLPADSLRLVLPPTLLQKLATHPLSRDLYPSSLGHYRRARDHQMSREQHDDHLLIYCSEGQGWLVAQGQSQAVGCGDLIWLPPGMAHAYHADPASPWTIHWVHLRGGGADWLRLAAGYGDSPVRHWGPQHILISGFAQLLEAHHSGYRFQPFLLAASRLRALLCQLPLLRPVRDAGLDLDGLHAYMRDNLHQRLELPQLAAFCNLSKFHFVNRYRALTGRTPIQHFLHLKIEYACQLLDSSPCGIAQVSQAVGYDDSYYFSRLFSKVMGLSPSAYRRRLSQGRGGA*"
+     misc_feature    complement(920..923)
+                     /label="Cut"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    complement(925..930)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    complement(933..957)
+                     /label="Part-Primer-R"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+ORIGIN
+        1 gcactgctca ctgcatcgat acatgacggt ctcatatgag ccgcaccagc gattggccgc
+       61 tgccggcgga tagcttacgc ttagtgttac cgccgaccct gttacagaaa ctggcgaccc
+      121 atccgctgag ccgcgatctg tatccgagct ctctgggtca ttatcgccgc gcgcgtgatc
+      181 atcagatgag ccgcgaacag catgacgatc acctgctgat ttattgcagc gaaggccagg
+      241 gctggctggt ggcgcagggt caatctcaag cagttggttg tggcgatctg atttggctgc
+      301 cgccgggcat ggcgcatgcg tatcatgcag atccagcatc tccatggacc attcattggg
+      361 tgcatctgcg cggcggcggt gcggattggt tacgtttagc agcaggttat ggcgatagcc
+      421 cggtgcgcca ttggggcccg cagcatattc tgattagcgg ctttgcgcag ctgctggaag
+      481 cgcatcatag cggctatcgc tttcagccgt ttctgctggc ggcgagccgc ttacgtgcac
+      541 tgctgtgcca gttaccgtta ctgcgtccgg tgcgtgatgc gggcctggat ctggatggct
+      601 tacatgcgta tatgcgcgat aacctgcatc agcgcctgga actgccgcag ctggcggcat
+      661 tttgcaacct gagcaaattt cattttgtga accgctatcg cgcgctgacc ggccgcaccc
+      721 cgattcagca ctttttacac ctgaaaattg aatatgcgtg ccagctgctg gatagcagcc
+      781 cgtgtggcat tgcgcaggtt tctcaggcgg tgggctatga cgatagctat tatttcagcc
+      841 gcctgtttag caaagtgatg ggcctgagcc cgagcgcgta tcgccgtcgt ttatctcaag
+      901 gtcgtggtgg cgcgtaataa tcctgagacc tgggatgagt cagcatcgag cacagac
+//

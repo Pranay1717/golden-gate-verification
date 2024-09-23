@@ -1,0 +1,72 @@
+LOCUS       2._R0.2K-SpecR           979 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..13
+                     /label="AACG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(14..805)
+                     /label="SpecR"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     CDS             complement(14..805)
+                     /label="SpecR"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+                     /translation="MREAVIAEVSTQLSEVVGVIERHLEPTLLAVHLYGSAVDGGLKPHSDIDLLVTVTVRLDETTRRALINDLLETSASPGESEILRAVEVTIVVHDDIIPWRYPAKRELQFGEWQRNDILAGIFEPATIDIDLAILLTKAREHSVALVGPAAEELFDPVPEQDLFEALNETLTLWNSPPDWAGDERNVVLTLSRIWYSAVTGKIAPKDVAADWAMERLPAQYQPVILEARQAYLGQEEDRLASRADQLEEFVHYVKGEITKVVGK*"
+     misc_feature    complement(806..966)
+                     /label="BCD R0.2K"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     CDS             complement(808..858)
+                     /label="leader peptide DJR R0.2K"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+                     /translation="MKAIFVLKHLNHAHVP*"
+     misc_feature    complement(812..820)
+                     /label="SD2"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    complement(868..875)
+                     /label="SD1"
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    complement(876..885)
+                     /label="5'UTR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    complement(886..966)
+                     /label="PlmJ"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    967..970
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(972..977)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaA ACGttatttg ccgactacct tggtgatctc gcctttcacg tagtggacaa
+       61 attcttccaa ctgatctgcg cgcgaggcca agcgatcttc ttcttgtcca agataagcct
+      121 gtctagcttc aagtatgacg ggctgatact gggccggcag gcgctccatt gcccagtcgg
+      181 cagcgacatc cttcggcgcg attttgccgg ttactgcgct gtaccaaatg cgggacaacg
+      241 taagcactac atttcgctca tcgccagccc agtcgggcgg cgagttccat agcgttaagg
+      301 tttcatttag cgcctcaaat agatcctgtt caggaaccgg atcaaagagt tcctccgccg
+      361 ctggacctac caaggcaacg ctatgttctc ttgcttttgt cagcaagata gccagatcaa
+      421 tgtcgatcgt ggctggctcg aagatacctg caagaatgtc attgcgctgc cattctccaa
+      481 attgcagttc gcgcttagct ggataacgcc acggaatgat gtcgtcgtgc acaacaatgg
+      541 tgacttctac agcgcggaga atctcgctct ctccagggga agccgaagtt tccaaaaggt
+      601 cgttgatcaa agctcgccgc gttgtttcat caagccttac ggtcaccgta accagcaaat
+      661 caatatcact gtgtggcttc aggccgccat ccactgcgga gccgtacaaa tgtacggcca
+      721 gcaacgtcgg ttcgagatgg cgctcgatga cgccaactac ctctgatagt tgagtcgata
+      781 cttcggcgat caccgcttcc ctcatattta aGGGACGTGA gcgtgattta ggtgtttaag
+      841 aacaaatata gctttcatgc gcggttatcc tcctttataa gctacTTAAA CAAAATTATT
+      901 TGTAGAGGTC ATAAGTTTCG TCGCATTTCA GCGACTCATC AGTGGGCTTA GCCCAGACTT
+      961 ATGACTCAAT tgagacctg
+//

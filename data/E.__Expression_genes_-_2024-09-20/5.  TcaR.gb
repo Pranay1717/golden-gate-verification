@@ -1,0 +1,39 @@
+LOCUS       5._TcaR                  481 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..13
+                     /label="Lig"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    11..466
+                     /label="TcaR"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     CDS             11..466
+                     /label="TcaR"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+                     /translation="MVRRIEDHISFLEKFINDVNTLTAKLLKDLQTEYGISAEQSHVLNMLSIEALTVGQITEKQGVNKAAVSRRVKKLLNAELVKLEKPDSNTDQRLKIIKLSNKGKKYIKERKAIMSHIASDMTSDFDSKEIEKVRQVLEIIDYRIQSYTSKL*"
+     misc_feature    469..472
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    complement(474..479)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGGTTCGCC GCATTGAAGA TCATATCTCG TTCTTAGAGA AATTCATTAA
+       61 TGACGTAAAC ACATTGACTG CGAAATTGTT GAAAGACTTG CAGACCGAGT ACGGGATTAG
+      121 TGCCGAACAA TCGCATGTAC TTAACATGCT TTCCATTGAA GCTTTGACAG TAGGCCAAAT
+      181 CACCGAAAAA CAGGGCGTGA ACAAGGCAGC CGTGTCACGC CGTGTTAAAA AACTGTTAAA
+      241 TGCAGAGTTA GTCAAGCTGG AGAAGCCAGA TAGCAATACA GACCAGCGCT TGAAAATTAT
+      301 TAAGCTGTCT AATAAGGGTA AGAAGTACAT TAAGGAGCGT AAAGCGATTA TGTCTCATAT
+      361 CGCCAGTGAT ATGACGTCAG ATTTCGATTC CAAGGAAATC GAAAAAGTCC GCCAAGTCTT
+      421 AGAGATTATT GATTACCGCA TCCAATCATA CACTTCCAAG CTGTAAtaAT CCtgagacct
+      481 g
+//

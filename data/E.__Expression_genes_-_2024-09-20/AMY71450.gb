@@ -1,0 +1,36 @@
+LOCUS       AMY71450                 628 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..613
+                     /label="AMY71450"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    616..619
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(621..626)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGACCAAGC CTCGCACTCG TAATCCGTCT GCGACGCGCC AACGTTTGCT
+       61 GGATGCGGCA CGCGATATTG CGTGTGAGGA AGGTGCCTCC AGTTTATCTC TGGATGCCGT
+      121 GGCGGCACGT GCTGGCGTTA GCAAAGGCGG TTTACTGTAT CATTTCCCGT CGCGTGAAGC
+      181 GCTTCTGCGC GCGGTGGTTA CAGACTCCGT AGATCGCATG CGGGATGATC TGGAAGCACG
+      241 TGCACCAGGT GCATTAGCAG GAAGTGCGCC CGCTCTTCCA GCTGCGTGTT GCTACCTGGA
+      301 TGTCCTGCGT GACAAAGTGT GCACACCGAG TGCAGGCGCC TCGGGCTTTT TCGCCGCCAT
+      361 GTTAGAAGAT CCTGCCTTCA TGGAGCCCGT GTTGACCTTT CGCTCAGAAC TCCGTGCTTT
+      421 GTTTGCTCGT TGTCCGGACC CACGTCGCGG GGCCATCGTA TTTATGGCGT GCGAAGGTCT
+      481 GGTCCACGAG AAACTGACCA CCCCGTTTCG GACGACTGAA GGCAACCATG CGCTGCTGCT
+      541 TGACCTGGCG GCCCTGTTGA CTGGTGAATC TTTATCTGAC GAGCGCCCGT CAGGGGAAGC
+      601 TCCGGCCGGC TAAtaATCCt gagacctg
+//

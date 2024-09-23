@@ -1,0 +1,38 @@
+LOCUS       PMR76500                 763 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..748
+                     /label="PMR76500"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    751..754
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(756..761)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGAGCTCTG ATAAAGGTCG TGAAGCCCGT AGCCGCGTAA CGGAAAACGA
+       61 TAGCGCGCCA AAACGTCGCC GTCGTAAGAA AGAGCGCCTG ACCGTTCGTC AGATTGCGGA
+      121 AGCGGCACTG ACCCTGGTAA ATCGTGAAGG GCTGGACGGC TTGACTATGC GTGCGCTTGC
+      181 CGATGCGATG GATGTGCAGG CGCCTGTTAT CTATCGGCAC GTGGCGGATA AACGCCAGCT
+      241 CTTGGATGAG ATGGCCGATG CTATCGTGGC AGCCGTTCCG TTAGGCGGTC TGGACGACGA
+      301 AGATGCGTAC GTCAACCTGG CCGAATTCGT GCGCCGCTTG CGCCGCACCT TACTGATGTA
+      361 CCGTGATGGG GCACGTATTG TCGGCGGTTC GTATAGTGCA AAACATTCAA CGCTGCGCGG
+      421 CGCAGAAACT CTGATGGCGC TGCTTGTGAA GGCTGGGCTT GACCGTGACC GCGCATTGTG
+      481 GGCTATGACC ACGGTCCTGT CGTTTATCCT GGGTGAGACA CTCGAGCAAC AAGGTTTACC
+      541 GGACGAGCCA GGAGAAGCCA CCGCCGCTAT TACCGCGTCC TTAGGTGAAG TCCTGTCCTC
+      601 TCCGGATTTT CGGCATTTGG ATACAGAACT CATGGCGCGG CGTTTCTTTG ACTTCGATGG
+      661 CCGCTTTGAG TTTGGACTGG CCATGATTCT GGCCGGCGTG CGTGAACAGG TTGCTGGCAC
+      721 TGATCGCGAA AAAATCGGAC TGGCATAAta ATCCtgagac ctg
+//

@@ -1,0 +1,58 @@
+LOCUS       Copy_of_SEE04737_Promote 300 bp ds-DNA     linear       16-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    95..100
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    102..105
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    106..133
+                     /label="UAS"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    106..186
+                     /label="SEE04737 Promoter"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    134..139
+                     /label=-35
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    140..156
+                     /label="spacer"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    157..162
+                     /label=-10
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    163..186
+                     /label="SEE04737 operator"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    165..172
+                     /label="IR F"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    complement(177..184)
+                     /label="IR R"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    187..190
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(192..197)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 ggcgagatta gatgcagcta caagacacgc tggcgtgaac aagaggtgag ctcaattcac
+       61 attggttgat acgcgcaatc ttggattgcg cgaaggtctc aGCCAAACGg gctgtcgacc
+      121 tttgaaaagt tcgTTGACAg ctagctcagt cctaggTATA ATgaATTGCA CTagatAGTG
+      181 CAATagATTG tgagacctac atggcgtggt ctaggatctg acactcgcac gatagactgg
+      241 actgcgatcc tgtgctgaga caTCaatgat cactccaagg ttatcttgcg aggactacgt
+//

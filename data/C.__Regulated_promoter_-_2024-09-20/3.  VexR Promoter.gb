@@ -1,0 +1,58 @@
+LOCUS       3._VexR_Promoter         300 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    37..42
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    44..47
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    91..120
+                     /label="UAS"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    121..126
+                     /label=-35
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    127..142
+                     /label="spacer"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    136..139
+                     /label="IR"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    143..148
+                     /label=-10
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    complement(149..152)
+                     /label="IR"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    149..158
+                     /label="disc"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    159..178
+                     /label="ITR"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    193..196
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(198..203)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acattggttg atacgcgcaa tcttggattg cgcgaaggtc tcaGCCAAGC GCTCTCAATC
+       61 CTCTTTATTT AGCCGCCAAT AATAATCCGC TCACCGAGGA TTAtCAACAA AGAAACTGCC
+      121 TTgACAAAAA TTTACTGCAC AAGTGTATTG CAAAACAGGG GGTATTAGCC GCTATAATGA
+      181 ACAACCGTTC ATATTGtgag acctacatgg cgtggtctag gatctgacac tcgcacgata
+      241 gactggactg cgatcctgtg ctgagacaTC aatgatcact ccaaggttat cttAGTCGAT
+//

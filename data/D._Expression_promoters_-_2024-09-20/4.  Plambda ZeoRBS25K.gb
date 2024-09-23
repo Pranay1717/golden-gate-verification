@@ -1,0 +1,55 @@
+LOCUS       4._Plambda_ZeoRBS25K     301 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    51..56
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    58..61
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    62..110
+                     /label="Bidirectional terminator"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    111..135
+                     /label="Stuffer"
+                     /ApEinfo_revcolor="#b7e6d7"
+                     /ApEinfo_fwdcolor="#b7e6d7"
+     Promoter        136..184
+                     /label="Lambda PR"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    150..155
+                     /label=-35
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    173..178
+                     /label=-10
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     Promoter        185..191
+                     /label="ITR"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    212..232
+                     /label="25K Zeo RBS"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    237..240
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(242..247)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 tgagctcaat tcacattggt tgatacgcgc aatcttggat tgcgcgaaac ggtctcaTGG
+       61 Ctttcttgca aaaaaaaacc ccgccgaagc ggggtttttt tttttacagg gcaagaaata
+      121 caccggcgaa aagactaaca ccgtgcgtgT TGACTatttt acctctggcg gtGATAATgg
+      181 ttgcAAGTGA TaaTGGTaga gtcgtcagca gTGACGGTTA TTGGAGGAGG TTgacaTATG
+      241 tgagacctgt acatggcgtg gtctaggatc tgacactcgc acgatagact ggactgcgat
+      301 c
+//

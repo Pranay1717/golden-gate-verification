@@ -1,0 +1,36 @@
+LOCUS       AOR61801                 658 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..643
+                     /label="AOR61801"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    646..649
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(651..656)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGGAAAAAA TCACCAAACC GGTGCGCGCC CGTCGCAAAG AAGCGCGTCC
+       61 AGGCGAAATT ATTGATGTTG CGATCGAAAG CTTCTTGTCT AAAGGCTATG AGGCAACCAA
+      121 GTTGGATGCG GTTGCACGTC AGGCGGGCGT GGCTAAAGGT ACTGTGTTTC TGTACTTTGG
+      181 GACCAAAGAG AAACTGTTCC GCGCCGTGGT ACAAAAAGTC ACGGAATCCA ACTTTCAGAA
+      241 ACTGCGTAAA ACCATCGACG ATTACGAAGG CGCGTTTCCC GACTTTCTTA AGCTGCTTTT
+      301 AAGCAGCATC GTATCATCTG TCAGCACCAG TCCGGCTCCG GCGATGGCGG TCATGATTTT
+      361 ACGGGAATCT AAACGCTTCC CTGATATTGG ACAGATCTGG TTCGATGAAG TTCTCAGTCC
+      421 GACGCTGGGT TCGGTTCAAT CAGTTATTGA AAAGGCTCAG AATCGCGGGG AAGTGCGTCC
+      481 GGGTGATTCG CGGGCACATG CATTGTCCAT TCTGGGTCCA ATGTTTACGG TAGCCATGAT
+      541 CGGCGAAATG GTGGCCGACG TGGAGCACAA GATGATTAAT CGCGAGACAC TGGCCCATGA
+      601 GCACCTCAAA ACTGTCCTGA ACGGACTGTA TCTGCATCAG TAAtaATCCt gagacctg
+//

@@ -1,0 +1,51 @@
+LOCUS       2._Lambda_cI             843 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..13
+                     /label="AACG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     CDS             complement(14..724)
+                     /label="cI Repressor"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     CDS             complement(14..724)
+                     /label="Translation 724-14"
+                     /translation="MSTKKKPLTQEQLEDARRLKAIYEKKKNELGLSQESVADKMGMGQSGVGALFNGINALNAYNAALLAKILKVSVEEFSPSIAREIYEMYEAVSMQPSLRSEYEYPVFSHVQAGMFSPELRTFTKGDAERWVSTTKKASDSAFWLEVEGNSMTAPTGSKPSFPDGMLILVDPEQAVEPGDFCIARLGGDEFTFKKLIRDSGQVFLQPLNPQYPMIPCNESCSVVGKVIASQWPEETF*"
+     misc_feature    complement(731..737)
+                     /label="RBS"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    complement(753..830)
+                     /label="ElvJ"
+                     /ApEinfo_revcolor="#75c6a9"
+                     /ApEinfo_fwdcolor="#75c6a9"
+     misc_feature    831..834
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(836..841)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaA ACGTTAaaac gtctcttcag gccactgact agcgataact ttccccacaa
+       61 cggaacaact ctcattgcat gggatcattg ggtactgtgg gtttagtggt tgtaaaaaca
+      121 cctgaccgct atccctgatc agtttcttga aggtaaactc atcaccccca agtctggcta
+      181 tgcagaaatc acctggctca acagcctgct cagggtcaac gagaattaac attccgtcag
+      241 gaaagcttgg cttggagcct gttggtgcgg tcatggaatt accttcaacc tcaagccaga
+      301 atgcagaatc actggctttt ttggttgtgc ttacccatct ctccgcatca cctttggtaa
+      361 aggttctaag ctcaggtgag aacatccctg cctgaacatg agaaaaaaca gggtactcat
+      421 actcacttct aagtgacggc tgcatactaa ccgcttcata catctcgtag atttctctgg
+      481 cgattgaagg gctaaattct tcaacgctaa ctttgagaat ttttgcaagc aatgcggcgt
+      541 tataagcatt taatgcattg atgccattaa ataaagcacc aacgcctgac tgccccatcc
+      601 ccatcttgtc tgcgacagat tcctgggata agccaagttc atttttcttt ttttcataaa
+      661 ttgctttaag gcgacgtgcg tcctcaagct gctcttgtgt taatggtttc ttttttgtgc
+      721 tcattctaga tctccttctc tagtaCTTGA TTTTAAACAA AATTATTTGT AGAGGCCCCA
+      781 TTTCGTCCTT TTGGACTCAT CAGGGGTGGT ACACACCACC CTATGGGGCT CAATtgagac
+      841 ctg
+//

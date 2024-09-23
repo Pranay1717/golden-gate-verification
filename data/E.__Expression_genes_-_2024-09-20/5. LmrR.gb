@@ -1,0 +1,37 @@
+LOCUS       5._LmrR                  376 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..361
+                     /label="LmrR"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     CDS             11..361
+                     /label="LadR"
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+                     /translation="MAEIPKEMLRAQTNVILLNVLKQGDNYVYGIIKQVKEASNGEMELNEATLYTIFKRLEKDGIISSYWGDESQGGRRKYYRLTEIGHENMRLAFESWSRVDKIIENLEANKKSEAIK*"
+     misc_feature    364..367
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(369..374)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGGCAGAAA TCCCTAAGGA AATGCTTCGC GCACAGACCA ATGTAATTCT
+       61 GCTTAACGTG CTTAAACAAG GGGACAACTA CGTTTATGGT ATCATCAAAC AGGTCAAAGA
+      121 GGCATCAAAC GGCGAAATGG AATTGAATGA GGCTACATTA TACACCATCT TCAAACGTCT
+      181 TGAGAAGGAT GGGATCATCA GTTCGTATTG GGGCGACGAG TCGCAAGGTG GGCGTCGTAA
+      241 GTACTATCGC TTAACAGAAA TCGGGCACGA AAACATGCGT TTAGCCTTCG AAAGTTGGAG
+      301 CCGTGTAGAC AAGATCATTG AAAACCTTGA GGCAAATAAG AAGTCGGAGG CCATCAAGTA
+      361 AtaATCCtga gacctg
+//

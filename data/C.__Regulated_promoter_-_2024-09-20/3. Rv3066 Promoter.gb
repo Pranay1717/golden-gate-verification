@@ -1,0 +1,43 @@
+LOCUS       3._Rv3066_Promoter       301 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    97..102
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    104..107
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    123..152
+                     /label="Rv3066 binding"
+                     /ApEinfo_revcolor="#84b0dc"
+                     /ApEinfo_fwdcolor="#84b0dc"
+     misc_feature    132..137
+                     /label=-35
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    154..159
+                     /label=-10
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    160..165
+                     /label="ITR"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     misc_feature    172..175
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(177..182)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 gtggcgagat tagatgcagc tacaagacac gctggcgtga acaagaggtg agctcaattc
+       61 acattggttg atacgcgcaa tcttggattg cgcgaaggtc tcaGCCAggc tgtcgacCTT
+      121 TGTGTGTACA TTTGTACATG TACAAATGTA CACTATAATG CTAGCGGAAG AATTGtgaga
+      181 cctacatggc gtggtctagg atctgacact cgcacgatag actggactgc gatcctgtgc
+      241 tgagacaTCa atgatcactc caaggttata tgcttatcga tttcgatcta gctcgattac
+      301 g
+//

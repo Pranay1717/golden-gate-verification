@@ -1,0 +1,46 @@
+LOCUS       3._QacR_Promoter         300 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    105..110
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    112..115
+                     /label="TGGC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    116..168
+                     /label="P500"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    140..145
+                     /label=-35
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    163..168
+                     /label=-10
+                     /ApEinfo_revcolor="#faac61"
+                     /ApEinfo_fwdcolor="#faac61"
+     misc_feature    169..174
+                     /label="ITR"
+                     /ApEinfo_revcolor="#f8d3a9"
+                     /ApEinfo_fwdcolor="#f8d3a9"
+     misc_feature    175..203
+                     /label="QacR operator"
+                     /ApEinfo_revcolor="#c7b0e3"
+                     /ApEinfo_fwdcolor="#c7b0e3"
+     misc_feature    204..207
+                     /label="CAAT"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(209..214)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 aggactacgt ggcgagatta gatgcagcta caagacacgc tggcgtgaac aagaggtgag
+       61 ctcaattcac attggttgat acgcgcaatc ttggattgcg cgaaggtctc aGCCAggctg
+      121 tcgacCTTTG AAAAGTTCGt tTacagctag ctcagtccta ggtaCAATGC TAGCCCAATC
+      181 CTTATAGACC GCGGTCTATA AGGATTGtga gacctacatg gcgtggtcta ggatctgaca
+      241 ctcgcacgat agactggact gcgatcctgt gctgagacaT Caatgatcac tccaaggtta
+//

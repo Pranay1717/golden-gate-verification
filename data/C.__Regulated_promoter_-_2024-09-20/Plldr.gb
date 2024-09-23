@@ -1,0 +1,70 @@
+LOCUS       Plldr                    302 bp ds-DNA     linear       03-SEP-2024
+DEFINITION  Designed manually. Transcription rate: 12,026
+ACCESSION   Plldr
+COMMENT     Imported using the Genbank importer. File name:
+            Ppccd_promoter-part.gb
+FEATURES             Location/Qualifiers
+     misc_feature    1..25
+                     /label="Part-Primer_F"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+     misc_feature    26..73
+                     /label="spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    74..79
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    81..84
+                     /label="Cut"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    85..101
+                     /label="lldRO1"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    85..218
+                     /label="LldR promoter"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    145..176
+                     /label="UAS1"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    177..182
+                     /label=-35
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    199..204
+                     /label=-10
+                     /ApEinfo_revcolor="#f58a5e"
+                     /ApEinfo_fwdcolor="#f58a5e"
+     misc_feature    202..218
+                     /label="lldRO2"
+                     /ApEinfo_revcolor="#b4abac"
+                     /ApEinfo_fwdcolor="#b4abac"
+     misc_feature    complement(219..222)
+                     /label="Cut"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(224..229)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    complement(230..277)
+                     /label="spacer"
+                     /ApEinfo_revcolor="#c6c9d1"
+                     /ApEinfo_fwdcolor="#c6c9d1"
+     misc_feature    complement(278..302)
+                     /label="Part-Primer_R"
+                     /ApEinfo_revcolor="#b1ff67"
+                     /ApEinfo_fwdcolor="#b1ff67"
+ORIGIN
+        1 gcactgctca ctgcatcgat acatgagcta caagacacgc tggcgtgaac aagaggtgag
+       61 ctcaattcac attggtctca gccaaattgg ccctaccaat tgtcattatc cctacacaac
+      121 accttcgctt atctgacctc tggtATTGTA TGcGCTcTCG AggTTTcAAA AGTACCTTGA
+      181 CGGCGTATCT TTGCTTTCTA Taattggcag tgccacttat tgtgagacct acatggcgtg
+      241 gtctaggatc tgacactcgc acgatagact ggactgcgga tgagtcagca tcgagcacag
+      301 ac
+//

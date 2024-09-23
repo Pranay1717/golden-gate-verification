@@ -1,0 +1,38 @@
+LOCUS       AKK09602                 733 bp ds-DNA     linear       13-SEP-2024
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    3..8
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+     misc_feature    10..10
+                     /label="TATG"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    11..718
+                     /label="AKK09602"
+                     /ApEinfo_revcolor="#ffef86"
+                     /ApEinfo_fwdcolor="#ffef86"
+     misc_feature    721..724
+                     /label="ATCC"
+                     /ApEinfo_revcolor="#85dae9"
+                     /ApEinfo_fwdcolor="#85dae9"
+     misc_feature    complement(726..731)
+                     /label="BsaI"
+                     /ApEinfo_revcolor="#ff9ccd"
+                     /ApEinfo_fwdcolor="#ff9ccd"
+ORIGIN
+        1 acggtctcaT ATGAATAAAG GCCGTAAAGC TGAAGCGGTA GAGGCACCAC GTCGTGGTCC
+       61 ACGTCCGTCA GGAAAAGCGG GCAAAGAACA GATCCTCGAA GCGGCCACGC GCGAGTTCGG
+      121 GGAATATGGC TATCAGGCGA CAACAATCCG CAAAATCGCA GAGGCGGCGG GGGTCGACTC
+      181 GAAACTGGTG CATTACTACT TCGGCACGAA GGAGTCTCTG TTCACCACCG TGATTACGGA
+      241 AACGTTCCGT AGCCGCGGCT TTCCGGATAT TTTGCTGCCC GAAGGAGAAG GACGTGACGG
+      301 TTCCCCGGGT ACCCGTTATG TGCTGGCAGT ACTGACCGCG CTCGAAGATC CGTCTATGGG
+      361 CCCGGCGTTT ATTGGTCTTG TCCGCGGCAT TGGTACTCAC GATGAAAGCC GCCGCATCTT
+      421 CTTGCGGTTT GTGACCGAAG AACTGCTTGG CACCTTTGCT CCGCGTCTGG GTGTGGAACA
+      481 TCCTGAAACG CGCCTTAGCC TGGCTGGCAG TCAGTTACTG GGCCTGGTCT TTGGTCGCTA
+      541 TGTATTGAAG GTTCCAACAA TCGCAGGTCT GCCGGCTCGC GAGTTAGCAC GGGTTGTGGG
+      601 TCCCACTATT GATCGGTACG CCTTTGGGGA CATTGAACTG GAAGCGGATG GTTTAACTGC
+      661 CGTTGATCAC GAGCGTGTTA CCAACGGGGA GGCTACCGAA GTCGGCGCCC AACCTTAAta
+      721 ATCCtgagac ctg
+//
