@@ -22,4 +22,4 @@ COPY . .
 EXPOSE 8501
 
 # Command to run your Streamlit app
-CMD ["streamlit", "run", "your_app.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "golden-gate-verification.py", "--server.port=8501", "--server.address=0.0.0.0"]
